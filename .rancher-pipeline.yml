@@ -2,6 +2,6 @@ stages:
 - name: test
   steps:
   - applyYamlConfig:
-      path: ./test1.yaml
+      path: ./ceshi1.yaml
 timeout: 60
 notification: {}
